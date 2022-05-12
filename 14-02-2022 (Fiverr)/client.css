@@ -1,0 +1,63 @@
+.clientMainDiv{
+    width: 97%;
+    margin:0px auto;
+    background-image: url("https://www.upwork.com/static/assets/Brontes/e5a44390/img/find-talent.06d34b1.jpg");
+height: 600px;
+margin-bottom: 40px;
+background-size: cover;
+border-radius: 10px;
+}
+
+
+.clientMainDiv h2{
+    color:white;
+    padding:30px
+}
+
+
+.clientMainDiv h3{
+    color:white;
+margin-top: 50px;
+padding-left: 20px;
+width: 30%;
+font-size: 54px;
+}
+.clientMainDiv p{
+    color:white;
+margin-top: 50px;
+padding-left: 20px;
+font-size: 20px;
+width: 50%;
+}
+
+.cltBoxes{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.cltBox{
+    height: 170px;
+    border-radius: 10px;
+    background-color: #14a800;
+    width: 29%; 
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;            
+    justify-content: space-between;
+}
+
+.cltH3{
+    font-size: 30px !important;
+    color:white !important;
+    margin-top: 0px !important;
+    padding-left: 20px !important;
+    width: 70% !important;
+}
+
+.cltPara{
+    color:white;
+    margin-top: 0px !important;
+    padding-left: 20px !important;
+    font-size: 20px !important;
+    width: 100% !important;
+}

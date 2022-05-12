@@ -1,0 +1,68 @@
+.workMainDiv{
+    display: flex;
+    justify-content: space-around;
+    width: 95%;
+    margin:0px auto;
+    height: 90vh;
+    margin-top: 50px;
+}
+
+
+.workChildOne{
+    width: 55%;
+    height: 100px;
+
+}
+
+
+.workChildTwo{
+    width: 40%;
+}
+
+.circleImg{
+    width:100%;
+    height:80%;
+}
+
+.workChildOne h2{
+    color: #14a800;
+    font-size: 60px;
+    width: 70%;
+}
+
+.frtPara{
+    color:#65735b;
+    font-size: 26px;
+}
+
+.smStl{
+    padding: 12px;
+    border-radius: 20px;
+    border:none;
+    width:150px;
+    margin-top: 40px;
+}
+.fndTln{
+    background-color: #14A800;
+    color:white;
+    border:none;
+}
+.fndWrk{
+
+    color:#14A800;
+    background-color: white;
+    border:1px solid #14a800 !important;
+    margin-left: 20px;
+}
+
+.trtPara{
+    margin-top: 60px;
+    color:#9aaa97;
+    font-size: 20px;
+}
+
+.comDiv img{
+height: 40px;
+width: 120px;
+margin-top: 20px;
+}

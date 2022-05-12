@@ -1,0 +1,8 @@
+tufail : 3
+azmat ali : 2
+ahmad jamal : 0
+aliyan : 1
+azhar = hero : 1
+Faiq : 1
+muaviya : 1
+

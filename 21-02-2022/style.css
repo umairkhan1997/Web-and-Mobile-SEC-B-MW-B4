@@ -1,0 +1,38 @@
+#mainDiv{
+    background-color: red;
+    height: 400px;
+}
+
+
+@media screen and (max-width:760px){
+    #mainDiv{
+        background-color: pink;
+        height: 400px;
+    }
+    
+} 
+
+
+@media screen and (max-width:600px){
+    #mainDiv{
+        background-color: yellow;
+        height: 400px;
+    }
+
+    #php{
+        display: none;
+    }
+    
+} 
+
+@media screen and (max-width:300px){
+    #mainDiv{
+        background-color: orange;
+        height: 400px;
+    }
+
+    #php{
+        display: none;
+    }
+    
+} 

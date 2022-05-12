@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Supermercado+One&display=swap');
+#para{
+    /* font-size: 8rem; */
+    font-family: Arial, Helvetica, sans-serif;
+   /* font-style: italic; */
+   text-transform: capitalize;
+/* text-decoration: line-through; */
+/* line-height: 2rem; */
+/* letter-spacing: 4px; */
+/* word-spacing: 6px; */
+/* text-align: justify; */
+
+/* text-shadow: 4px 0px 0px #fd0202; */
+    
+}
+#para:hover{
+    background-color: purple;
+    text-align: center;
+    color: white;
+}
+a{
+  text-decoration: none;
+}
